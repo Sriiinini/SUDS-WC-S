@@ -1,1 +1,5 @@
 # SUDS-WC&S
+
+In the Students Using Data for Social Good club at CMU, I took on the role of Project Manager to lead data-driven projects that help non-profits make the most of their data. One of the coolest projects I worked on was with the Women's Center & Shelter of Greater Pittsburgh. I created a super-efficient automation framework using Tableau Prep and Tableau Desktop, which cut down data processing time by 50%. We also integrated this with Salesforce CRM to make managing client information a breeze.
+
+I ran training sessions for over 30 CMU students, teaching them how to use Salesforce and Tableau tools. My team dug into the raw data from the shelter to uncover insights about the demographics of domestic violence survivors and to evaluate how effective their programs were. We shared these insights with the WC&S Board of Directors, helping them make informed decisions. This project was a great example of how data can make a big difference in the non-profit world, improving both efficiency and the quality of services they provide.
